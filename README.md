@@ -37,4 +37,4 @@ To illustrate, imagine dealing with 500 items and needing to create a column dis
 
 <h2>Conclusion</h2>
 
-Overall, I use this tool to speed up the process of finding necessary data or if I am creating new tables and want to combine information together without having to do tedious manual work. I find it great and has solved me from hours of work. 
+In summary, I use this tool to speed up the process of finding necessary data while I am creating new tables and want to combine information together without having to do tedious manual work. I did not go into meticulous detail as you still have to do a couple prerequisites like cleaning up the data or being able to organize it first in a way to allow you to use the VLOOKUP Function correctly. But overall, I find this to be a great tool and has solved me from hours of work. 
