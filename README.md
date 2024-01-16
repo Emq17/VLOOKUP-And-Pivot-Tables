@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/zHben3N.png" alt="Logo"/>
+<img src="https://i.imgur.com/oyzKMtJ.png" alt="Logo"/>
 </p>
 
 <h1 align="center">VLOOKUP</h1>
@@ -35,6 +35,14 @@ To illustrate, imagine dealing with 500 items and needing to create a column dis
 
 ![Screen Shot 2024-01-15 at 8 11 03 PM](https://github.com/Emq17/VLOOKUP-Function/assets/147126755/5b87e0d1-d9ac-43ab-8c0d-b8c18df869da)
 
+<h2>What Are Pivot Tables?</h2>
+
+A Pivot Table is a data processing and analysis tool in spreadsheet software, such as Microsoft Excel. It allows users to summarize and rearrange selected columns and rows of data from a larger dataset, providing a more organized and condensed view for analysis. Users can dynamically reorient the data, apply functions, and create cross-tabulations, making it easier to explore patterns, trends, and relationships within the information. Pivot Tables are particularly valuable for simplifying complex datasets and gaining insights into the data's structure, facilitating effective decision-making in data analysis tasks.
+
+<h2>Scenario</h2>
+For Pivot Tables, I would also utilize them to identify not only the top heaviest or lightest items by weight but also to discern which items held the highest value based on price. This powerful tool enabled me to delve into comprehensive data analysis, providing insights into the weight distribution and value hierarchy of items. Whether it was pinpointing the weight outliers or identifying the most valuable assets, Pivot Tables proved instrumental in extracting meaningful patterns and facilitating informed decision-making. Unfortunately, privacy constraints and the sensitivity of company data prevents me from sharing these tables publicly.
+
+
 <h2>Conclusion</h2>
 
-In summary, I use this tool to speed up the process of finding necessary data while I am creating new tables and want to combine information together without having to do tedious manual work. I did not go into meticulous detail as you still have to do a couple prerequisites like cleaning up the data or being able to organize it first in a way to allow you to use the VLOOKUP Function correctly. But overall, I find this to be a great tool and has solved me from hours of work. 
+In summary, I use these tools to quickly find important data when creating new tables and combining information. They act like shortcuts, saving me from doing repetitive manual tasks. Although I won't go into all the small details, it's essential to clean up and organize your data first before diving in. Despite these prep steps, these tools are amazing. They've saved me a lot of time and made working with data much easier.
