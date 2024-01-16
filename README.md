@@ -2,21 +2,8 @@
 <img src="https://i.imgur.com/zHben3N.png" alt="Logo"/>
 </p>
 
-<h1 align="center">Establishing Virtual Machines With Remote Desktop</h1>
+<h1 align="center">VLOOKUP Function</h1>
 
-In this repository, I will guide you through the process of leveraging Microsoft Azure to efficiently create Virtual Machines, and demonstrate the utilization of Microsoft Remote Desktop for the purpose of deploying connections.
-
-<h2>Environments and Technologies</h2>
-
-- Microsoft Azure
-- Microsoft Remote Desktop
-
-<h2>Operating Systems Used </h2>
-
-- Windows 10 Pro</b> (21H2)
-
-<h2>List of Prerequisites</h2>
-
-- Subscription of Microsoft Azure
+In this repository, I will provide you a quick example of how I have used the VLOOKUP Function as a tool to help accomplish tasks within Microsoft Excel. 
 
 <h2>Steps</h2>
