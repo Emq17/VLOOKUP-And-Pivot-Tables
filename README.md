@@ -35,6 +35,6 @@ To illustrate, imagine dealing with 500 items and needing to create a column dis
 
 ![Screen Shot 2024-01-15 at 8 11 03 PM](https://github.com/Emq17/VLOOKUP-Function/assets/147126755/5b87e0d1-d9ac-43ab-8c0d-b8c18df869da)
 
-<h2>Scenario</h2>
+<h2>Conclusion</h2>
 
 Overall, I use this tool to speed up the process of finding necessary data or if I am creating new tables and want to combine information together without having to do tedious manual work. I find it great and has solved me from hours of work. 
