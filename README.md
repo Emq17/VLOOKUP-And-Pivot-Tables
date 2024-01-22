@@ -77,6 +77,8 @@ For Pivot Tables, I would also utilize them to identify not only the top heavies
 ![Screen Shot 2024-01-22 at 11 37 23 AM](https://github.com/Emq17/VLOOKUP-And-Pivot-Tables/assets/147126755/a6aa1ea1-d7a0-4332-9572-d516a67e979a)
 ![Screen Shot 2024-01-22 at 11 37 46 AM](https://github.com/Emq17/VLOOKUP-And-Pivot-Tables/assets/147126755/2910b505-d73b-4214-bc56-5bdeb6d6a02d)
 ![Screen Shot 2024-01-22 at 11 38 03 AM](https://github.com/Emq17/VLOOKUP-And-Pivot-Tables/assets/147126755/63069eb5-3807-4ff6-a857-d54430c0c74f)
+![Screen Shot 2024-01-22 at 11 45 07 AM](https://github.com/Emq17/VLOOKUP-And-Pivot-Tables/assets/147126755/00965ee0-1f04-4957-9547-a1997accc8b9)
+![Screen Shot 2024-01-22 at 11 45 23 AM](https://github.com/Emq17/VLOOKUP-And-Pivot-Tables/assets/147126755/ba93a586-0f35-4b60-8f7b-f4934920165b)
 
 
 <h2>Conclusion</h2>
