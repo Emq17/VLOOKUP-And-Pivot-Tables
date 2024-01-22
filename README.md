@@ -66,6 +66,16 @@ A Pivot Table is a data processing and analysis tool in spreadsheet software, su
 <h2>Scenario</h2>
 For Pivot Tables, I would also utilize them to identify not only the top heaviest or lightest items by weight but also to discern which items held the highest value based on price. This powerful tool enabled me to delve into comprehensive data analysis, providing insights into the weight distribution and value hierarchy of items. Whether it was pinpointing the weight outliers or identifying the most valuable assets, Pivot Tables proved instrumental in extracting meaningful patterns and facilitating informed decision-making. Unfortunately, privacy constraints and the sensitivity of company data prevents me from sharing these tables publicly.
 
+<h2>More Examples</h2>
+
+- I created a quick table with random data inside of it on one sheet then created a pivot table for it onto another sheet below
+- There are so many things you can do with pivot tables that'll help provide you with more insights of your data
+- Below I was able to filter by Patient & automatically add up what their current overall balance were if they had multiple vists into the new sheet where the pivot table is located
+
+![Screen Shot 2024-01-22 at 11 37 23 AM](https://github.com/Emq17/VLOOKUP-And-Pivot-Tables/assets/147126755/a6aa1ea1-d7a0-4332-9572-d516a67e979a)
+![Screen Shot 2024-01-22 at 11 37 46 AM](https://github.com/Emq17/VLOOKUP-And-Pivot-Tables/assets/147126755/2910b505-d73b-4214-bc56-5bdeb6d6a02d)
+![Screen Shot 2024-01-22 at 11 38 03 AM](https://github.com/Emq17/VLOOKUP-And-Pivot-Tables/assets/147126755/63069eb5-3807-4ff6-a857-d54430c0c74f)
+
 
 <h2>Conclusion</h2>
 
