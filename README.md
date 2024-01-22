@@ -49,6 +49,16 @@ To illustrate, imagine dealing with thousands of items and needing to create a c
 
 ![Screen Shot 2024-01-15 at 8 11 03 PM](https://github.com/Emq17/VLOOKUP-Function/assets/147126755/5b87e0d1-d9ac-43ab-8c0d-b8c18df869da)
 
+<h2>More Examples</h2>
+
+- As you can see below the first table is where all the data is collected
+- I use the VLOOKUP Function to create two more tables to help extract specific information by just inputting in different "Patient ID" numbers
+- The "Name" and "Notes" cells in both tables automatically populates what information is linked with that ID
+
+![Screen Shot 2024-01-22 at 11 29 33 AM](https://github.com/Emq17/VLOOKUP-And-Pivot-Tables/assets/147126755/313ff705-6858-4376-b208-3b449f533ba7)
+![Screen Shot 2024-01-22 at 11 30 09 AM](https://github.com/Emq17/VLOOKUP-And-Pivot-Tables/assets/147126755/7fd42e5d-e763-4e1e-8d28-cd07d408a5b8)
+
+
 <h2>What Are Pivot Tables?</h2>
 
 A Pivot Table is a data processing and analysis tool in spreadsheet software, such as Microsoft Excel. It allows users to summarize and rearrange selected columns and rows of data from a larger dataset, providing a more organized and condensed view for analysis. Users can dynamically reorient the data, apply functions, and create cross-tabulations, making it easier to explore patterns, trends, and relationships within the information. Pivot Tables are particularly valuable for simplifying complex datasets and gaining insights into the data's structure, facilitating effective decision-making in data analysis tasks.
