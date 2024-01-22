@@ -70,7 +70,9 @@ For Pivot Tables, I would also utilize them to identify not only the top heavies
 
 - I created a quick table with random data inside of it on one sheet then created a pivot table for it onto another sheet below
 - There are so many things you can do with pivot tables that'll help provide you with more insights of your data
-- Below I was able to filter by Patient & automatically add up what their current overall balance were if they had multiple vists into the new sheet where the pivot table is located
+  - On the right side you can see a section where you can just drag and drop certain parts of your data in order to find the things you need 
+- Below I was able to filter by Patient & automatically add up what their current overall balance were if they had multiple vists
+  - You can see whenever I click on the Patient number the table automatically displays that Patients added up data 
 
 ![Screen Shot 2024-01-22 at 11 37 23 AM](https://github.com/Emq17/VLOOKUP-And-Pivot-Tables/assets/147126755/a6aa1ea1-d7a0-4332-9572-d516a67e979a)
 ![Screen Shot 2024-01-22 at 11 37 46 AM](https://github.com/Emq17/VLOOKUP-And-Pivot-Tables/assets/147126755/2910b505-d73b-4214-bc56-5bdeb6d6a02d)
